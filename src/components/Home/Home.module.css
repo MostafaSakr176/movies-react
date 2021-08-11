@@ -1,0 +1,10 @@
+.header{
+    padding: 250px 0 50px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-image: url('./mission.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
